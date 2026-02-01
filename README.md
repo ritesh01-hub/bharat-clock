@@ -22,5 +22,6 @@ A simple and beginner-friendly React application that displays the current date 
 
 ---
 
-## 📁 Project Structure
+## Image
+![Bharat Clock ScreenShot](.https://github.com/ritesh01-hub/bharat-clock/blob/372a8b7de24249a9f0f40dd8f39db04b9fe5afa1/Screenshot%202026-02-01%20233715.png)
 
